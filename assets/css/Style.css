@@ -78,3 +78,8 @@ body{
         margin: 25px auto;
         background-color: #C4E0E5;
 }
+/*cuadro de fondo de login*/
+.log{
+    background-color: whitesmoke;
+    padding: 12px;
+}
